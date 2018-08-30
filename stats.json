@@ -21,8 +21,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-e66ada4a3bf160c0c0fa.js",
-      "component---src-layouts-index-jsx-e66ada4a3bf160c0c0fa.js.map"
+      "component---src-layouts-index-jsx-d9695941a6d855a534fa.js",
+      "component---src-layouts-index-jsx-d9695941a6d855a534fa.js.map"
     ],
     "path---heroes-of-the-storm": [
       "path---heroes-of-the-storm-6cdde989e4b28c9a42e7.js",
@@ -53,9 +53,9 @@
       "component---src-pages-about-jsx-05a82caeb7d80583756e.js.map"
     ],
     "commons": [
-      "commons-24384febad01443f13fb.js",
+      "commons-eabfc01ccb664ce84daa.js",
       "build-js-styles.css",
-      "commons-24384febad01443f13fb.js.map",
+      "commons-eabfc01ccb664ce84daa.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
