@@ -1,0 +1,81 @@
+// Custom Styles for Emma
+// Using our variables
+
+@import "../../config/variables";
+
+.container {
+  padding-top: 5rem;
+}
+
+.vibrant-canvas {
+  display: none;
+}
+
+.bm-burger-button {
+  height: 30px;
+  position: fixed;
+  right: 1rem;
+  top: 0.8rem;
+  width: 36px;
+}
+
+.bm-burger-bars {
+  background: #373a47;
+}
+
+.bm-cross-button {
+  height: 24px;
+  right: 2rem !important;
+  top: 2rem !important;
+  transform: scale(2.5);
+  width: 24px;
+}
+
+.bm-cross {
+  background: #fff;
+}
+
+.bm-menu {
+  background: $brand-primary !important;
+  font-size: 1.15em;
+  padding: 2.5em 1.5em 0;
+}
+
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+.skills-title {
+    margin-top: 50px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills > div {
+    width: 50%;
+    margin: 20px 0;
+
+    @include for-phone-only {
+        width: 100%;
+    }
+}
+
+.contact-link a {
+    display: flex;
+    align-items: center;
+}
+
+.contact-link svg {
+    width: 36px;
+    height: 36px;
+    margin-bottom: 0;
+    margin-right: 10px;
+}
