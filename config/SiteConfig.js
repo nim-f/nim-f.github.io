@@ -1,11 +1,11 @@
 module.exports = {
-  pathPrefix: 'portfolio', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
-  siteTitle: 'Anna Sh - Front end dev', // Navigation and Site Title
-  siteTitleAlt: 'Anna Sh - front-end developer, portfolio', // Alternative Site title for SEO
-  siteUrl: 'https://nim-f.github.io/portfolio', // Domain of your site. No trailing slash!
+  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
+  siteTitle: 'Ann Sh - Front end dev', // Navigation and Site Title
+  siteTitleAlt: 'Ann Sh - front-end developer, portfolio', // Alternative Site title for SEO
+  siteUrl: 'https://nim-f.github.io', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
-  siteDescription: 'Anna Sh - front-end developer, portfolio',
+  siteDescription: 'Ann Sh - front-end developer, portfolio',
   siteFBAppID: '123456789', // Facebook App ID
   userTwitter: '@nim_ff', // Twitter Username
   // og: Meta Tags
